@@ -3,7 +3,7 @@ layout: page
 title: "Plot & Bloom — Privacy Policy"
 permalink: /plotandbloom/privacy/
 ---
-_Last updated: 22 November 2026_
+_Last updated: 23 November 2026_
 
 Plot & Bloom ("the app") is published by Cozylogic, a brand of Hybrid Aero Tech LLC ("we"), which is responsible for the data described here. This policy explains what the app collects, why, and the choices you have.
 

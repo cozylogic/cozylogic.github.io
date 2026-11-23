@@ -34,4 +34,4 @@ One purchase turns off the ads between gardens and gives you three free hints a 
 
 Contact us at [games@hybridaerotech.com](mailto:games@hybridaerotech.com). Please include your phone model and the app version (Settings, bottom of the page).
 
-See also the [privacy policy](/garden/privacy).
+See also the [privacy policy](/plotandbloom/privacy/) and the [terms of use](/plotandbloom/terms/).

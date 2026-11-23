@@ -10,3 +10,4 @@ Plant one flower in every row, column and garden bed, without any two plants tou
 
 - [Help and support](/plotandbloom/support/)
 - [Privacy policy](/plotandbloom/privacy/)
+- [Terms of use](/plotandbloom/terms/)
