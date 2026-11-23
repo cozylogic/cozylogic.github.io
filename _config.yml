@@ -1,0 +1,6 @@
+title: Cozylogic
+description: Cozy logic games.
+theme: minima
+# app-ads.txt must be served as-is from the domain root.
+include: [app-ads.txt]
+exclude: [README.md]
