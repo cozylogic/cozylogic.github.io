@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Garden Puzzle — Privacy Policy"
-permalink: /gardenpuzzle/privacy/
+title: "Plot & Bloom — Privacy Policy"
+permalink: /plotandbloom/privacy/
 ---
 _Last updated: 22 November 2026_
 
-Garden Puzzle ("the app") is published by Cozylogic, a brand of Hybrid Aero Tech LLC ("we"), which is responsible for the data described here. This policy explains what the app collects, why, and the choices you have.
+Plot & Bloom ("the app") is published by Cozylogic, a brand of Hybrid Aero Tech LLC ("we"), which is responsible for the data described here. This policy explains what the app collects, why, and the choices you have.
 
 ## The short version
 

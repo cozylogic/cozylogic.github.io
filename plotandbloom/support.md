@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Garden Puzzle — Help"
-permalink: /gardenpuzzle/support/
+title: "Plot & Bloom — Help"
+permalink: /plotandbloom/support/
 ---
 ## How to play
 
