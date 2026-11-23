@@ -63,7 +63,7 @@ You can stop using the app at any time by deleting it. If you break these terms,
 
 ## Governing law
 
-These terms are governed by the laws of the U.S. state in which Hybrid Aero Tech LLC is organised, without regard to conflict-of-law rules. If you live in the EU, the UK or another country with mandatory consumer protection laws, you also keep the protection of the laws of your country, and you may bring claims in your local courts.
+These terms are governed by the laws of the State of Florida, USA, without regard to conflict-of-law rules. If you live in the EU, the UK or another country with mandatory consumer protection laws, you also keep the protection of the laws of your country, and you may bring claims in your local courts.
 
 ## App Store (iPhone and iPad)
 
