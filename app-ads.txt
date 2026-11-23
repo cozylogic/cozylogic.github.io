@@ -1,0 +1,4 @@
+# app-ads.txt for Cozylogic apps, served at https://cozylogic.github.io/app-ads.txt (the domain root).
+# Google AdMob (publisher id from AdMob -> Settings -> Account; f08c47fec0942fa0 is Google's and stays).
+google.com, pub-5757953414041386, DIRECT, f08c47fec0942fa0
+# AppLovin (bidding through AdMob mediation): once set up, add the exact line from AppLovin's dashboard below.
